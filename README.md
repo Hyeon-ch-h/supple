@@ -1,5 +1,8 @@
 Lua Script >> for Exporting x, y, Bx, By, and |B|
-After Lua >> calculate |(B·∇)B|
+
+AfterLua.m >> calculate |(B·∇)B|
+
+areahistogram4.m >> draw histogram and colormap 
 
 
 --!! Caution !!--
