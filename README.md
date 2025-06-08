@@ -4,6 +4,11 @@ AfterLua.m >> calculate |(B·∇)B|
 
 areahistogram4.m >> draw histogram and colormap 
 
+===
+
+areahistogram3COMSOL.m >> draw histogram for COMSOL data 
+
+===
 
 --!! Caution !!--
 This Lua script requires that all points lie in the first quadrant of the xy-plane — that is, all x and y coordinates must be positive.
